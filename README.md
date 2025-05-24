@@ -1,2 +1,2 @@
 # belajarGH
-repository untuk latihan penggunaan GitHub
+repository untuk latihan penggunaan GitHub #MAlesta
