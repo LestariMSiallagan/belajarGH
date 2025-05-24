@@ -2,3 +2,4 @@ Tugas penting
 -Membuat halaman index.html
 -membuat halaman form.html
 -membuat halaman about.html
+-membuat agus menarik
